@@ -9955,7 +9955,7 @@ h6,
   left: 50%;
   border-radius: 4px;
   opacity: 0;
-  transition: .5s;
+  transition: .1s;
 }
 
 .portfolio-item:hover .portfolio-btn {
